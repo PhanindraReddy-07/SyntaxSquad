@@ -317,3 +317,11 @@ rentals_inc.csv
 users_master.csv
 users_inc.csv
 ```
+
+### Developed by
+```
+Karri Phanindra Reddy
+Katakam David Raju
+Pappula Sathvika
+Pondugula Hemanthika
+```
